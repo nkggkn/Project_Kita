@@ -1,0 +1,19 @@
+{
+  "id": "/checklist",
+  "name": "Kita Clear \u2014 Kaki Kita AI",
+  "short_name": "Kita Clear",
+  "description": "Turn room photos and videos into a removal checklist.",
+  "start_url": "/checklist",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2258a6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

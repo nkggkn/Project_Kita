@@ -1,0 +1,15 @@
+{
+  "real_cpu_inference_passed": true,
+  "custom_labels": 61,
+  "combined_classes": 119,
+  "policy": "yolo_primary_support_only",
+  "torch": "2.15.0+cpu",
+  "ultralytics": "8.4.198",
+  "primary_predictions": 5,
+  "primary_retained": 5,
+  "all_primary_labels_boxes_scores_preserved": true,
+  "custom_predictions": 8,
+  "combined_predictions": 10,
+  "sample": "Bundled public Ultralytics bus.jpg; no ground-truth accuracy claim",
+  "note": "No camera or paid provider call. GPU and physical-camera performance have not been verified."
+}

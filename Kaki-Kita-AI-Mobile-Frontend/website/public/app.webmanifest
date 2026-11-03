@@ -1,0 +1,39 @@
+{
+  "id": "/",
+  "name": "Kaki Kita AI",
+  "short_name": "Kaki Kita",
+  "description": "Check a room, review a video, and keep your tasks together.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2258a6",
+  "icons": [
+    {
+      "src": "/icons/app-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/app-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Kita Vision",
+      "url": "/vision"
+    },
+    {
+      "name": "Kita Watch",
+      "url": "/watch"
+    },
+    {
+      "name": "My tasks",
+      "url": "/checklist"
+    }
+  ]
+}

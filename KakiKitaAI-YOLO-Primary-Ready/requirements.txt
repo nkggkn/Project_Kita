@@ -1,0 +1,16 @@
+ultralytics==8.4.198
+safetensors==0.8.0
+anthropic
+fastapi
+httpx
+uvicorn
+python-multipart
+pillow
+nest-asyncio
+pyngrok
+requests
+opencv-python-headless
+yt-dlp[default]
+deno
+nbformat
+pytest
