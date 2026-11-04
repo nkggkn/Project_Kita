@@ -2,6 +2,8 @@
 
 **Your AI Kaki. Looking Out for All of Us.** · PROJECT KITA hackathon prototype
 
+Developed by : Adie Fazil(Team Leader), Arya, Niko, Jonathan , Asami
+
 Kaki Kita AI helps people, caregivers and volunteers check rooms and walkways for things that
 could get in the way: clutter, cables, bags, steps and other possible obstacles. Take a photo,
 record a short video, or point a live camera at a space. The AI marks what it sees and suggests
